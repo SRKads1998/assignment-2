@@ -12,6 +12,9 @@ __pycache__/
 # C extensions
 *.so
 
+# data
+task2/
+
 # Distribution / packaging
 .Python
 build/
